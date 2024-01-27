@@ -1,5 +1,11 @@
 # astro
 
+## 4.2.7
+
+### Patch Changes
+
+- [#9840](https://github.com/withastro/astro/pull/9840) [`70fdf1a5c660057152c1ca111dcc89ceda5c8840`](https://github.com/withastro/astro/commit/70fdf1a5c660057152c1ca111dcc89ceda5c8840) Thanks [@delucis](https://github.com/delucis)! - Expose `ContentConfig` type from `astro:content`
+
 ## 4.2.6
 
 ### Patch Changes
